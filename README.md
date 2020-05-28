@@ -12,6 +12,6 @@ TTPDrill focuses on developing automated and context-aware analytics of cyber th
 * Add stanford-corenlp jar
 
 # Notice
-Copyright 2020 CyberDNA, UNCC
+Copyright 2020 CyberDNA Center, UNC Charlotte
 
 Please cite paper: https://dl.acm.org/doi/pdf/10.1145/3134600.3134646
